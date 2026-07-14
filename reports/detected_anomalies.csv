@@ -1,0 +1,150 @@
+type,column,index,value,limit,detection_method
+missing_values,ambient_temperature,2026-01-01 08:50:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:50:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:50:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:50:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:50:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:51:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:51:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:51:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:51:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:51:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:51:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:52:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:52:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:52:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:52:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:52:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:52:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:53:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:53:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:53:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:53:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 08:53:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:32:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:32:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:32:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:33:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:33:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:33:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:33:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:33:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:33:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:34:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:34:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:34:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:34:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:34:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:34:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:35:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:35:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:35:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:35:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:35:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:35:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:36:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:36:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:36:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:36:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:36:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:36:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:37:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:37:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:37:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:37:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:37:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:37:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:38:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:38:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:38:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:38:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:38:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:38:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:39:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:39:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:39:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:39:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:39:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:39:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:40:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:40:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:40:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:40:30,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:40:40,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:40:50,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:41:00,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:41:10,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:41:20,,,missing_check
+missing_values,ambient_temperature,2026-01-01 10:41:30,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:34:30,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:34:40,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:34:50,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:35:00,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:35:10,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:35:20,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:35:30,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:35:40,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:35:50,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:36:00,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:36:10,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:36:20,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:36:30,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:36:40,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:36:50,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:37:00,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:37:10,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:37:20,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:37:30,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:37:40,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:37:50,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:38:00,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:38:10,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:38:20,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:38:30,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:38:40,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:38:50,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:39:00,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:39:10,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:39:20,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:39:30,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:39:40,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:39:50,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:40:00,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:40:10,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:40:20,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:40:30,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:40:40,,,missing_check
+missing_values,tank_temperature,2026-01-01 02:40:50,,,missing_check
+missing_values,tank_temperature,2026-01-02 08:44:00,,,missing_check
+missing_values,tank_temperature,2026-01-02 08:44:10,,,missing_check
+missing_values,tank_temperature,2026-01-02 08:44:20,,,missing_check
+missing_values,tank_temperature,2026-01-02 08:44:30,,,missing_check
+missing_values,tank_temperature,2026-01-02 08:44:40,,,missing_check
+missing_values,tank_temperature,2026-01-02 08:44:50,,,missing_check
+missing_values,tank_temperature,2026-01-02 08:45:00,,,missing_check
+missing_values,tank_temperature,2026-01-02 08:45:10,,,missing_check
+missing_values,tank_temperature,2026-01-02 08:45:20,,,missing_check
+missing_values,tank_temperature,2026-01-02 08:45:30,,,missing_check
+physical_limit_violation,tank_pressure,2026-01-01 08:26:20,50.98411851300847,100 < x < 400,physical_limits
+physical_limit_violation,tank_pressure,2026-01-01 13:16:20,-39.73688552409283,100 < x < 400,physical_limits
+physical_limit_violation,tank_pressure,2026-01-01 16:00:10,49.59902359227084,100 < x < 400,physical_limits
+physical_limit_violation,tank_pressure,2026-01-01 16:41:10,486.3861649221884,100 < x < 400,physical_limits
+physical_limit_violation,tank_pressure,2026-01-01 21:34:10,-121.46184901133802,100 < x < 400,physical_limits
+physical_limit_violation,tank_pressure,2026-01-01 21:39:30,-100.71262978756934,100 < x < 400,physical_limits
+physical_limit_violation,tank_pressure,2026-01-02 13:51:30,-153.12909113213456,100 < x < 400,physical_limits
+physical_limit_violation,tank_pressure,2026-01-02 14:58:00,-125.31697942538104,100 < x < 400,physical_limits
+physical_limit_violation,tank_pressure,2026-01-02 15:20:50,-98.95563827955036,100 < x < 400,physical_limits
+physical_limit_violation,tank_pressure,2026-01-02 20:18:30,431.3916115267249,100 < x < 400,physical_limits
+physical_limit_violation,compressor_power,2026-01-01 08:08:20,-173.86491482270648,0 < x < 200,physical_limits
+physical_limit_violation,compressor_power,2026-01-01 09:05:00,-139.82413004103773,0 < x < 200,physical_limits
+physical_limit_violation,compressor_power,2026-01-01 10:28:10,-135.86544131273234,0 < x < 200,physical_limits
+physical_limit_violation,compressor_power,2026-01-01 22:16:30,526.7281568551033,0 < x < 200,physical_limits
+physical_limit_violation,compressor_power,2026-01-02 00:43:30,-143.24627416499789,0 < x < 200,physical_limits
+physical_limit_violation,compressor_power,2026-01-02 05:38:40,-379.97183636353,0 < x < 200,physical_limits
+physical_limit_violation,compressor_power,2026-01-02 06:00:40,303.7139284423931,0 < x < 200,physical_limits
+physical_limit_violation,compressor_power,2026-01-02 17:29:50,-456.7395986895802,0 < x < 200,physical_limits
+physical_limit_violation,compressor_power,2026-01-02 20:00:30,277.2807559740584,0 < x < 200,physical_limits
+physical_limit_violation,compressor_power,2026-01-02 20:04:10,336.2702366622178,0 < x < 200,physical_limits
+operating_mode_inconsistency,compressor_power,2026-01-02 06:00:40,303.7139284423931,compressor active only during CHARGING,operating_logic
+operating_mode_inconsistency,compressor_power,2026-01-02 20:00:30,277.2807559740584,compressor active only during CHARGING,operating_logic
+operating_mode_inconsistency,compressor_power,2026-01-02 20:04:10,336.2702366622178,compressor active only during CHARGING,operating_logic
