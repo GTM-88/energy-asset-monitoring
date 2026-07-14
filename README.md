@@ -1,5 +1,7 @@
 # Energy Asset Monitoring Framework
 
+![Dashboard](figures/dashboard.png)
+
 An end-to-end Python project for monitoring and analysing the operation of an industrial energy asset using synthetic time-series data.
 
 The project simulates the operation of a simplified Compressed Air Energy Storage (CAES) system and demonstrates a complete engineering workflow, from synthetic data generation to operational performance analysis through interactive dashboards.
